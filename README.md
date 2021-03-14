@@ -6,6 +6,7 @@ Employee Tracker is a application that is driven at Command Line Inteface (CLI).
 
 ## Demo
 
+https://drive.google.com/file/d/1oyb1V5NCwIUI27VB6KkbDgcBiSwuvArP/view
 
 ## Getting Started
 ### Instructions:
