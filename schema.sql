@@ -5,7 +5,7 @@ CREATE DATABASE employee_trackerDB;
 
 USE employee_trackerDB;
 
-
+/*-Department Table-*/
 CREATE TABLE department (
     id INTEGER(11) AUTO_INCREMENT  NOT NULL,
     name VARCHAR(30) NOT NULL,
@@ -13,6 +13,7 @@ CREATE TABLE department (
 
 );
 
+/*-Role Table-*/
 CREATE TABLE role (
     id INTEGER(11) AUTO_INCREMENT  NOT NULL,
     title VARCHAR(30),
@@ -22,6 +23,7 @@ CREATE TABLE role (
 
 );
 
+/*-Employee Table-*/
 CREATE TABLE employee (
     id INTEGER(11) AUTO_INCREMENT  NOT NULL,
     first_name VARCHAR(30) NOT NULL,
